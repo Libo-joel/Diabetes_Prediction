@@ -23,3 +23,22 @@ This project aims to predict diabetes using machine learning algorithms such as 
 1. Install required libraries:
    ```bash
    pip install pandas numpy sklearn lightgbm
+
+2. Open the Jupyter Notebook:
+bash
+Copy
+Edit
+jupyter notebook miniproject.ipynb
+
+3. Run all cells to train models and view results.
+
+Results
+Achieved improved accuracy using PSO.
+Detailed metrics and visualizations are in the notebook.
+
+Future Enhancements
+Experimenting with deep learning models.
+Integrating a web app for real-time predictions.
+
+Author
+Libo Joel A — B.Tech CSE (AI), Karunya Institute of Technology and Sciences.
